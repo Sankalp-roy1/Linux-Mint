@@ -1,0 +1,4 @@
+#First run
+
+chmod +x mint-v1.3.sh
+./mint-v1.3.sh
